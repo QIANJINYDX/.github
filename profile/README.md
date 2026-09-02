@@ -1,9 +1,9 @@
 # Hi, there is [Liang's Lab](https://ins.sjtu.edu.cn/people/lhong/index.html) 👋
 
-![Total Stars](https://img.shields.io/badge/Stars-1041-blue?logo=github&style=flat-square) <!-- 🔄 stars -->
+![Total Stars](https://img.shields.io/badge/Stars-1042-blue?logo=github&style=flat-square) <!-- 🔄 stars -->
 ![Total Forks](https://img.shields.io/badge/Forks-124-blue?logo=github&style=flat-square) <!-- 🔄 forks -->
-![Total Model Downloads](https://img.shields.io/badge/Total%20Model%20Downloads-344,603-orange?logo=huggingface&style=flat-square) <!-- 🔄 total_hf_models -->
-![Total Dataset Downloads](https://img.shields.io/badge/Total%20Dataset%20Downloads-122,586-orange?logo=huggingface&style=flat-square) <!-- 🔄 total_hf_datasets -->
+![Total Model Downloads](https://img.shields.io/badge/Total%20Model%20Downloads-347,994-orange?logo=huggingface&style=flat-square) <!-- 🔄 total_hf_models -->
+![Total Dataset Downloads](https://img.shields.io/badge/Total%20Dataset%20Downloads-131,167-orange?logo=huggingface&style=flat-square) <!-- 🔄 total_hf_datasets -->
 
 Research on protein-directed modification and redesign based on artificial intelligence technology.  
 The research content includes but is not limited to protein structure prediction and optimization, protein-directed modification, and design.
